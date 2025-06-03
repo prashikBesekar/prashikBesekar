@@ -8,7 +8,7 @@
 
 🚀 Technologies I Work With
 
-**Frontend** : React.js • JavaScript • HTML5 • CSS3 • Tailwind CSS 
+**Frontend** : React.js • JavaScript • HTML • CSS • Tailwind CSS 
 
 **Backend** : Node.js • Express.js • JWT Auth
 
