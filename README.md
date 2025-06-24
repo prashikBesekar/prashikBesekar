@@ -36,7 +36,6 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/prashik-besekar-a2b908363/)
 - 📧 [besekarprashik1@gmail.com](mailto:besekarprashik1@gmail.com)
-- 💻 [My Portfolio Website](https://your-portfolio-link.com) _(soon)
 
 ---
 
