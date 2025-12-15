@@ -1,7 +1,7 @@
 👋 Hello, I'm Prashik Besekar
 
-🎓 Final-year B.Tech (Computer Science) Student  
-Frontend Developer | MERN Stack | React.js, Node.js, MongoDB ,Python | AWS & Cloud Enthusiast
+🎓 B.Tech (Computer Science) Student  
+   Frontend Developer | MERN Stack | React.js, Node.js, MongoDB ,Python | AWS & Cloud Enthusiast
 🚀 Passionate about building modern web apps and solving real-world problems
 
 ---
