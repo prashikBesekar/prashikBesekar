@@ -1,7 +1,7 @@
 👋 Hello, I'm Prashik Besekar
 
 🎓 Final-year B.Tech (Computer Science) Student  
-💻 Frontend Developer | 🌐 MERN Stack Enthusiast | ☁️ AWS Cloud Learner  
+Frontend Developer | MERN Stack | React.js, Node.js, MongoDB ,Python | AWS & Cloud Enthusiast
 🚀 Passionate about building modern web apps and solving real-world problems
 
 ---
@@ -10,9 +10,9 @@
 
 **Frontend** : React.js • JavaScript • HTML • CSS • Tailwind CSS 
 
-**Backend** : Node.js • Express.js • JWT Auth
+**Backend** : Node.js • Express.js • JWT Auth • Python
 
-**Database** : MongoDB • MongoDB Atlas 
+**Database** : MongoDB • MongoDB Atlas • SQL
 
 **Cloud & Tools** : AWS EC2 • S3 • Git • GitHub • Visual Studio Code
 
@@ -20,8 +20,19 @@
 
  💼 Projects
  
-### 💬 [Real-time Chat App](https://github.com/prashikBesekar/chat-app)
-> Built with React.js, Firebase, and WebSockets for live messaging.
+### 💬 [Task Management Applications](https://github.com/prashikBesekar/TaskManagement_App)
+> Built a full-stack Task Manager app using the MERN stack. Features include user authentication, CRUD operations for tasks, task completion visualization, dark mode, and a modern responsive UI. Users can add, complete, and delete tasks, with real-time updates and professional date/time display.Built a full-stack Task Manager app using the MERN stack. Features include user authentication, CRUD operations for tasks, task completion visualization, dark mode, and a modern responsive UI. Users can add, complete, and delete tasks, with real-time updates and professional date/time display.
+
+### 💬 [Book Review API (Backend Project) | Jan 2025 – Feb 2025](https://github.com/prashikBesekar/BookReview_API)
+> Built a REST API for managing book reviews using Node.js, Express.js, and MongoDB.
+Implemented CRUD operations, authentication, and API testing with Postman.
+Focused on backend performance, error handling, and structured API design.
+
+### 💬 [QR Code Generator (Full-Stack Project) | Dec 2024 – Jan 2025](https://github.com/prashikBesekar/QR_codeGenerator)
+> Developed a full-stack application to generate and manage QR codes.
+Integrated frontend (React.js) with backend (Node.js/Express) for seamless user experience.
+Implemented download and storage functionality, ensuring smooth cross-device usability.
+
 
 ---
 
@@ -35,6 +46,7 @@
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/prashik-besekar-a2b908363/)
+- 🔗 [Leetcode]((https://leetcode.com/u/prashik_B/))
 - 📧 [besekarprashik1@gmail.com](mailto:besekarprashik1@gmail.com)
 
 ---
