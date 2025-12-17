@@ -46,7 +46,7 @@ Implemented download and storage functionality, ensuring smooth cross-device usa
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/prashik-besekar-a2b908363/)
-- 🔗 [Leetcode]((https://leetcode.com/u/prashik_B/))
+- 🔗 [Leetcode](https://leetcode.com/u/prashik_B/)
 - 📧 [besekarprashik1@gmail.com](mailto:besekarprashik1@gmail.com)
 
 ---
