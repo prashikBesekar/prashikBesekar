@@ -24,6 +24,10 @@
 >Production-Ready Nginx Setup: Deployed and configured Nginx on AWS EC2 with custom server blocks to host a live, publicly accessible website.
 Git-Based CI/CD Pipeline: Implemented a Git deployment workflow, enabling seamless code pushes from GitHub directly to the production server.
 Security & Production Debugging: Configured AWS Security Groups and resolved critical production issues (port conflicts, permissions, service failures).
+
+### 💬 [Finance Dashboard System Built With FastAPI and MySQL](https://github.com/prashikBesekar/Finance-Dashboard-API)
+> This is a RESTful backend API for a finance dashboard system built with FastAPI and MySQL. It supports three user roles (viewer, analyst, admin) with JWT based authentication and role based access control. The system includes full CRUD for financial records with soft delete, filtering and pagination, and dashboard analytics endpoints that return income/expense summaries, category breakdowns and monthly trends using SQL aggregations. The project is structured with clear separation between routers, middleware and model.
+
  
 ### 💬 [Task Management Applications](https://github.com/prashikBesekar/TaskManagement_App)
 > Built a full-stack Task Manager app using the MERN stack. Features include user authentication, CRUD operations for tasks, task completion visualization, dark mode, and a modern responsive UI. Users can add, complete, and delete tasks, with real-time updates and professional date/time display.Built a full-stack Task Manager app using the MERN stack. Features include user authentication, CRUD operations for tasks, task completion visualization, dark mode, and a modern responsive UI. Users can add, complete, and delete tasks, with real-time updates and professional date/time display.
