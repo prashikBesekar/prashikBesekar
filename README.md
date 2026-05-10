@@ -85,11 +85,9 @@
 ![Express](https://skillicons.dev/icons?i=express)
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
 
 <!-- Cloud & DevOps -->
 ![AWS](https://skillicons.dev/icons?i=aws)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![Nginx](https://skillicons.dev/icons?i=nginx)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Bash](https://skillicons.dev/icons?i=bash)
