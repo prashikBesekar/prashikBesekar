@@ -35,7 +35,6 @@
 🔥 I am particularly passionate about:
 - ⚡ High-performance backend systems & API design
 - ☁️ AWS cloud architecture & infrastructure automation
-- 🐳 Containerization with Docker & orchestration with Kubernetes
 - 🧩 Data structures, algorithms & system design
 
 ✨ **I only like production-ready code.**
