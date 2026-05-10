@@ -1,64 +1,150 @@
-👋 Hello, I'm Prashik Besekar
+<h1 align="center">Hey, I'm Prashik Besekar 👋</h1>
 
-🎓 B.Tech (Computer Science) Student  
-   MERN Stack | React.js, Node.js, MongoDB ,Python | AWS & Cloud Enthusiast
-🚀 Passionate about building modern web apps and solving real-world problems
+<p align="center">
+  <b>Backend Developer · MERN Stack · AWS & Cloud Enthusiast</b><br/>
+  Maharashtra, India &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/prashik-besekar-a2b908363/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://leetcode.com/u/prashik_besekar/">LeetCode</a> &nbsp;|&nbsp;
+  <a href="mailto:besekarprashik1@gmail.com">besekarprashik1@gmail.com</a>
+</p>
 
----
-
-🚀 Technologies I Work With
-
-**Frontend** : React.js • JavaScript • HTML • CSS • Tailwind CSS 
-
-**Backend** : Node.js • Express.js • JWT Auth • Python
-
-**Database** : MongoDB • MongoDB Atlas • SQL
-
-**Cloud & Tools** : AWS EC2 • S3 • Git • GitHub • Visual Studio Code
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prashikBesekar&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
- 💼 Projects
+## 🙋 About Me
 
-### 💬 AWS CI/CD Deployment with Nginx (Production-Style Setup) | Nov 2025 - Jan 2026.
->Production-Ready Nginx Setup: Deployed and configured Nginx on AWS EC2 with custom server blocks to host a live, publicly accessible website.
-Git-Based CI/CD Pipeline: Implemented a Git deployment workflow, enabling seamless code pushes from GitHub directly to the production server.
-Security & Production Debugging: Configured AWS Security Groups and resolved critical production issues (port conflicts, permissions, service failures).
+I'm a B.Tech Computer Science student passionate about building reliable backend systems and deploying production-ready applications on AWS. I enjoy solving real-world problems through code — from designing REST APIs to configuring CI/CD pipelines with Nginx on EC2.
 
-### 💬 [Finance Dashboard System Built With FastAPI and MySQL](https://github.com/prashikBesekar/Finance-Dashboard-API)
-> This is a RESTful backend API for a finance dashboard system built with FastAPI and MySQL. It supports three user roles (viewer, analyst, admin) with JWT based authentication and role based access control. The system includes full CRUD for financial records with soft delete, filtering and pagination, and dashboard analytics endpoints that return income/expense summaries, category breakdowns and monthly trends using SQL aggregations. The project is structured with clear separation between routers, middleware and model.
-
- 
-### 💬 [Task Management Applications](https://github.com/prashikBesekar/TaskManagement_App)
-> Built a full-stack Task Manager app using the MERN stack. Features include user authentication, CRUD operations for tasks, task completion visualization, dark mode, and a modern responsive UI. Users can add, complete, and delete tasks, with real-time updates and professional date/time display.Built a full-stack Task Manager app using the MERN stack. Features include user authentication, CRUD operations for tasks, task completion visualization, dark mode, and a modern responsive UI. Users can add, complete, and delete tasks, with real-time updates and professional date/time display.
-
-### 💬 [Book Review API (Backend Project) | Jan 2025 – Feb 2025](https://github.com/prashikBesekar/BookReview_API)
-> Built a REST API for managing book reviews using Node.js, Express.js, and MongoDB.
-Implemented CRUD operations, authentication, and API testing with Postman.
-Focused on backend performance, error handling, and structured API design.
-
-### 💬 [QR Code Generator (Full-Stack Project) | Dec 2024 – Jan 2025](https://github.com/prashikBesekar/QR_codeGenerator)
-> Developed a full-stack application to generate and manage QR codes.
-Integrated frontend (React.js) with backend (Node.js/Express) for seamless user experience.
-Implemented download and storage functionality, ensuring smooth cross-device usability.
-
+- 🔭 Currently sharpening my skills in **System Design** and **AWS Cloud Architecture**
+- 🌱 Learning **Docker**, **Kubernetes**, and **TypeScript**
+- 💼 Open to **entry-level backend / full-stack roles** and **freelance projects**
+- 🧩 Active on LeetCode — solving DSA problems daily
+- 📫 Reach me at **besekarprashik1@gmail.com**
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-![Prashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashikBesekar&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashikBesekar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📫 Let's Connect
+## 🚀 Featured Projects
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/prashik-besekar-a2b908363/)
-- 🔗 [Leetcode](https://leetcode.com/u/prashik_B/)
-- 📧 [besekarprashik1@gmail.com](mailto:besekarprashik1@gmail.com)
+### 🌐 [AWS CI/CD Deployment with Nginx](https://github.com/prashikBesekar) &nbsp;`Nov 2025 – Jan 2026`
+
+> Production-style deployment pipeline on AWS EC2
+
+- Deployed and configured **Nginx** with custom server blocks to host a live, publicly accessible website
+- Built a **Git-based CI/CD pipeline** enabling seamless pushes from GitHub to the production server
+- Configured **AWS Security Groups** and resolved critical production issues (port conflicts, file permissions, service failures)
+
+`AWS EC2` `Nginx` `CI/CD` `Linux` `Git`
 
 ---
 
-> “I’m not afraid of failure — I’m afraid of not trying.” 💪  
-> Let’s build something amazing together 🚀
+### ✅ [Task Management App](https://github.com/prashikBesekar/TaskManagement_App) &nbsp;`MERN Stack`
+
+> Full-stack task manager with auth, dark mode, and real-time UI
+
+- Built **user authentication** with JWT — secure login/register flow
+- Implemented full **CRUD** for tasks with real-time status updates and completion visualization
+- Designed a responsive **dark mode UI** using React and Tailwind CSS
+
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
+
+---
+
+### 📚 [Book Review REST API](https://github.com/prashikBesekar/BookReview_API) &nbsp;`Jan – Feb 2025`
+
+> Backend REST API for managing books and user reviews
+
+- Designed and built a complete **REST API** with CRUD operations using Node.js and Express
+- Implemented **JWT authentication** and secure route protection
+- Tested all endpoints with **Postman**; focused on error handling and structured responses
+
+`Node.js` `Express.js` `MongoDB` `JWT` `Postman`
+
+---
+
+### 🔲 [QR Code Generator](https://github.com/prashikBesekar/QR_codeGenerator) &nbsp;`Dec 2024 – Jan 2025`
+
+> Full-stack app to generate, download, and manage QR codes
+
+- Integrated **React.js frontend** with **Node.js/Express backend** for seamless QR generation
+- Added **download and storage functionality** for generated codes
+- Ensured smooth cross-device usability with a responsive layout
+
+`React.js` `Node.js` `Express.js` `CSS`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashikBesekar&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashikBesekar&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashikBesekar&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/prashik_besekar?theme=dark&font=Baloo_2&ext=heatmap" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prashik-besekar-a2b908363/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/prashik_besekar/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="mailto:besekarprashik1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"I'm not afraid of failure — I'm afraid of not trying." 💪</i><br/>
+  <b>Let's build something amazing together 🚀</b>
+</p>
