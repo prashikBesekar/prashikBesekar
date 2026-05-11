@@ -56,22 +56,7 @@
 ---
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Status
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prashikBesekar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashikBesekar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prashikBesekar&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashikBesekar&theme=github-dark&hide_border=true&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff" />
-
-</div>
 
 ---
 
@@ -154,15 +139,7 @@
 ---
 
 <!-- LEETCODE -->
-## 🧩 LeetCode — DSA Grind
 
-<div align="center">
-
-[![LeetCode](https://leetcard.jacoblin.cool/prashik_besekar?theme=dark&font=Fira+Code&ext=heatmap)](https://leetcode.com/u/prashik_besekar/)
-
-</div>
-
----
 
 
 ---
