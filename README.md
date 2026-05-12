@@ -3,17 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:00FF41&height=220&section=header&text=Prashik%20Besekar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Node.js%20Backend%20Developer%20%7C%20AWS%20Cloud%20Engineer%20%7C%20DevOps&descAlignY=58&descSize=16&animation=fadeIn" />
 </div>
 
-<!-- TYPING ANIMATION -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B+I'm+Prashik+Besekar;Node.js+Backend+Developer+%F0%9F%9B%A0%EF%B8%8F;AWS+%26+Cloud+Engineer+%E2%98%81%EF%B8%8F;DevOps+%7C+CI%2FCD+%7C+Infrastructure+%F0%9F%9A%80;Building+systems+that+scale+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
-<!-- LIVE COUNTERS -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=prashikBesekar&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117)
 ![GitHub Stars](https://img.shields.io/github/stars/prashikBesekar?style=for-the-badge&color=00ff41&labelColor=0d1117&label=STARS)
 ![Followers](https://img.shields.io/github/followers/prashikBesekar?style=for-the-badge&color=00ff41&labelColor=0d1117&label=FOLLOWERS)
 
