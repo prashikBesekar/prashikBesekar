@@ -9,12 +9,7 @@
 
 </div>
 
-<div align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/prashikBesekar?style=for-the-badge&color=00ff41&labelColor=0d1117&label=STARS)
-![Followers](https://img.shields.io/github/followers/prashikBesekar?style=for-the-badge&color=00ff41&labelColor=0d1117&label=FOLLOWERS)
-
-</div>
 
 ---
 
@@ -29,13 +24,6 @@
 
 🌱 My academic and personal journey is focused on mastering **backend engineering**, **cloud infrastructure**, and **DevOps practices** — because I believe great software isn't just written, it's **shipped and maintained**.
 
-🔥 I am particularly passionate about:
-- ⚡ High-performance backend systems & API design
-- ☁️ AWS cloud architecture & infrastructure automation
-- 🧩 Data structures, algorithms & system design
-
-✨ **I only like production-ready code.**
-
 <br/>
 
 <!-- CONNECT -->
@@ -48,6 +36,7 @@
 [![Medium](https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@LearnWithPrashik-a2b908363/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/prashik_besekar/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prashikBesekar)
+[![Dev](https://img.shields.io/badge/Dev-100000?style=for-the-badge&logo=dev&logoColor=white)](https://dev.to/learnwithprashik)
 
 </div>
 
@@ -66,8 +55,6 @@
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Nginx](https://skillicons.dev/icons?i=nginx)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Bash](https://skillicons.dev/icons?i=bash)
-
 <!-- Database -->
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
@@ -79,7 +66,6 @@
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 <!-- Tools -->
-![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Postman](https://skillicons.dev/icons?i=postman)
@@ -101,8 +87,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -122,14 +106,7 @@
 | ✅ **[Task Manager App](https://github.com/prashikBesekar/TaskManagement_App)** | Full-stack MERN app with JWT auth, CRUD, dark mode | `Node.js` `MongoDB` `React` | ✅ Shipped |
 | 📚 **[Book Review API](https://github.com/prashikBesekar/BookReview_API)** | Pure backend REST API with auth & Postman-tested endpoints | `Node.js` `Express` `MongoDB` | ✅ Shipped |
 | 🔲 **[QR Code Generator](https://github.com/prashikBesekar/QR_codeGenerator)** | Full-stack QR generator with download & storage | `Node.js` `React` | ✅ Shipped |
-| 🐳 **Dockerized Microservices** | Containerized Node.js API with Docker Compose | `Docker` `Node.js` `MongoDB` | ⚙️ Building |
-| 📊 **Cloud Monitor Dashboard** | AWS resource monitoring with CloudWatch & SNS alerts | `AWS` `Node.js` `React` | 📐 Planning |
-
 </div>
-
-
-
-
 
 ---
 
