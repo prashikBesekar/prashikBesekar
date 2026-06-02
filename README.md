@@ -96,16 +96,17 @@
 ---
 
 <!-- PROJECTS -->
-## 🚀 Best Projects
+🚀 Best Projects
 <div align="center">
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| ☁️ **AWS CI/CD + Nginx** | Production deployment pipeline on EC2 — Git push to live server | `AWS` `Nginx` `Linux` `CI/CD` | ✅ Live |
-| ✅ **[Task Manager App](https://github.com/prashikBesekar/TaskManagement_App)** | Full-stack MERN app with JWT auth, CRUD, dark mode | `Node.js` `MongoDB` `React` | ✅ Shipped |
-| 📚 **[Book Review API](https://github.com/prashikBesekar/BookReview_API)** | Pure backend REST API with auth & Postman-tested endpoints | `Node.js` `Express` `MongoDB` | ✅ Shipped |
-| 🔲 **[QR Code Generator](https://github.com/prashikBesekar/QR_codeGenerator)** | Full-stack QR generator with download & storage | `Node.js` `React` | ✅ Shipped |
-
+Project	Description	Stack	Status
+☁️ AWS CI/CD + Nginx	Production deployment pipeline on EC2 — Git push to live server	AWS Nginx Linux CI/CD	✅ Live
+✅ Task Manager App	Full-stack MERN app with JWT auth, CRUD, dark mode	Node.js MongoDB React	✅ Shipped
+📚 Book Review API	Pure backend REST API with auth & Postman-tested endpoints	Node.js Express MongoDB	✅ Shipped
+🔲 QR Code Generator	Full-stack QR generator with download & storage	Node.js React	✅ Shipped
+🐳 Dockerized Microservices	Containerized Node.js API with Docker Compose	Docker Node.js MongoDB	⚙️ Building
+📊 Cloud Monitor Dashboard	AWS resource monitoring with CloudWatch & SNS alerts	AWS Node.js React	📐 Planning
 </div>
+
 
 <!-- SUPPORT -->
 ## ☕ Support My Work
