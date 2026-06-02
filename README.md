@@ -97,7 +97,6 @@
 
 <!-- PROJECTS -->
 ## 🚀 Best Projects
-
 <div align="center">
 | Project | Description | Stack | Status |
 |---|---|---|---|
@@ -105,7 +104,9 @@
 | ✅ **[Task Manager App](https://github.com/prashikBesekar/TaskManagement_App)** | Full-stack MERN app with JWT auth, CRUD, dark mode | `Node.js` `MongoDB` `React` | ✅ Shipped |
 | 📚 **[Book Review API](https://github.com/prashikBesekar/BookReview_API)** | Pure backend REST API with auth & Postman-tested endpoints | `Node.js` `Express` `MongoDB` | ✅ Shipped |
 | 🔲 **[QR Code Generator](https://github.com/prashikBesekar/QR_codeGenerator)** | Full-stack QR generator with download & storage | `Node.js` `React` | ✅ Shipped |
+
 </div>
+
 <!-- SUPPORT -->
 ## ☕ Support My Work
 
