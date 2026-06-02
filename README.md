@@ -95,16 +95,60 @@
 
 ---
 
-<!-- PROJECTS -->
-🚀 Best Projects
+## 🚀 Featured Projects
+
 <div align="center">
-Project	Description	Stack	Status
-☁️ AWS CI/CD + Nginx	Production deployment pipeline on EC2 — Git push to live server	AWS Nginx Linux CI/CD	✅ Live
-✅ Task Manager App	Full-stack MERN app with JWT auth, CRUD, dark mode	Node.js MongoDB React	✅ Shipped
-📚 Book Review API	Pure backend REST API with auth & Postman-tested endpoints	Node.js Express MongoDB	✅ Shipped
-🔲 QR Code Generator	Full-stack QR generator with download & storage	Node.js React	✅ Shipped
-🐳 Dockerized Microservices	Containerized Node.js API with Docker Compose	Docker Node.js MongoDB	⚙️ Building
-📊 Cloud Monitor Dashboard	AWS resource monitoring with CloudWatch & SNS alerts	AWS Node.js React	📐 Planning
+
+### ☁️ AWS CI/CD + Nginx
+**Production deployment pipeline on EC2 — Git push to live server**
+
+![AWS CI/CD Preview](https://raw.githubusercontent.com/prashikBesekar/prashikBesekar/main/assets/aws-cicd.png)
+
+**Tech Stack:** `AWS` `Nginx` `Linux` `CI/CD` `GitHub Actions`
+
+**Status:** ✅ **Live**
+
+[View Project →](link-to-project)
+
+---
+
+### ✅ Task Manager App
+**Full-stack MERN app with JWT auth, CRUD, dark mode**
+
+![Task Manager Preview](https://raw.githubusercontent.com/prashikBesekar/TaskManagement_App/main/screenshots/dashboard.png)
+
+**Tech Stack:** `Node.js` `MongoDB` `React` `Express` `JWT`
+
+**Status:** ✅ **Shipped**
+
+[**Live Demo**](...) • [**Repository**](https://github.com/prashikBesekar/TaskManagement_App)
+
+---
+
+### 📚 Book Review API
+**Pure backend REST API with auth & Postman-tested endpoints**
+
+![Book Review API Preview](https://raw.githubusercontent.com/prashikBesekar/BookReview_API/main/screenshots/endpoints.png)
+
+**Tech Stack:** `Node.js` `Express` `MongoDB` `JWT`
+
+**Status:** ✅ **Shipped**
+
+[**Repository**](https://github.com/prashikBesekar/BookReview_API)
+
+---
+
+### 🔲 QR Code Generator
+**Full-stack QR generator with download & storage**
+
+![QR Code Generator Preview](https://raw.githubusercontent.com/prashikBesekar/QR_codeGenerator/main/screenshots/preview.png)
+
+**Tech Stack:** `Node.js` `React`
+
+**Status:** ✅ **Shipped**
+
+[**Repository**](https://github.com/prashikBesekar/QR_codeGenerator)
+
 </div>
 
 
