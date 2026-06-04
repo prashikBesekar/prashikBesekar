@@ -141,7 +141,7 @@
 ### 🔲 QR Code Generator
 **Full-stack QR generator with download & storage**
 
-![QR Code Generator Preview](https://raw.githubusercontent.com/prashikBesekar/QR_codeGenerator/main/screenshots/preview.png)
+![QR Code Generator Preview](https://github.com/prashikBesekar/Invora/blob/main/public/images/invora.jpg)
 
 **Tech Stack:** `Node.js` `React`
 
