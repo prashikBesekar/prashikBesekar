@@ -117,7 +117,7 @@
 
 ![Docmerge Preview](https://github.com/prashikBesekar/Pdfkit/blob/main/public/images/docmerge.png)
 
-**Tech Stack:** `Node.js` `MongoDB` `React` `Express` `JWT`
+**Tech Stack:** `Next.js` `MongoDB` `React` `App Router` `JWT`
 
 **Status:** ✅ **Shipped**
 
