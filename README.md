@@ -102,7 +102,7 @@
 ### ☁️ AWS CI/CD + Nginx
 **Production deployment pipeline on EC2 — Git push to live server**
 
-![AWS CI/CD Preview](https://raw.githubusercontent.com/prashikBesekar/prashikBesekar/main/assets/aws-cicd.png)
+![AWS CI/CD Preview](https://github.com/prashikBesekar/AWS-cicd-nginx-deployment/blob/main/images/AWS%202.png)
 
 **Tech Stack:** `AWS` `Nginx` `Linux` `CI/CD` `GitHub Actions`
 
