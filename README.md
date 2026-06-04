@@ -112,10 +112,10 @@
 
 ---
 
-### ✅ Task Manager App
-**Full-stack MERN app with JWT auth, CRUD, dark mode**
+### ✅ DocMerge-Based Document Generator
+**Integrated Tailwind CSS, Next.js App Router, and TypeScript for robust frontend-backend architecture**
 
-![Task Manager Preview](https://github.com/prashikBesekar/Pdfkit/blob/main/public/images/docmerge.png)
+![Docmerge Preview](https://github.com/prashikBesekar/Pdfkit/blob/main/public/images/docmerge.png)
 
 **Tech Stack:** `Node.js` `MongoDB` `React` `Express` `JWT`
 
