@@ -115,7 +115,7 @@
 ### ✅ Task Manager App
 **Full-stack MERN app with JWT auth, CRUD, dark mode**
 
-![Task Manager Preview](https://raw.githubusercontent.com/prashikBesekar/TaskManagement_App/main/screenshots/dashboard.png)
+![Task Manager Preview](https://github.com/prashikBesekar/Pdfkit/blob/main/public/images/docmerge.png)
 
 **Tech Stack:** `Node.js` `MongoDB` `React` `Express` `JWT`
 
