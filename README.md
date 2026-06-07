@@ -125,12 +125,12 @@
 
 ---
 
-### 📚 Book Review API
-**Pure backend REST API with auth & Postman-tested endpoints**
+### 📚 Saffron5 Institute 
+**Pure MERN Full Stack**
 
-![Book Review API Preview](https://raw.githubusercontent.com/prashikBesekar/BookReview_API/main/screenshots/endpoints.png)
+![Saffron5-institute Preview](https://github.com/prashikBesekar/saffron5-institue/blob/main/public/images/Saffron5-Institute.png)
 
-**Tech Stack:** `Node.js` `Express` `MongoDB` `JWT`
+**Tech Stack:** `Node.js` `Express` `MongoDB` `JWT` `React.js` `Emailjs` `Tailwindcss`
 
 **Status:** ✅ **Shipped**
 
@@ -138,12 +138,12 @@
 
 ---
 
-### 🔲 QR Code Generator
-**Full-stack QR generator with download & storage**
+### 🔲 Invoice Generator for Freelancers
+**A GST invoice generator for Indian freelancers to create, manage, and share professional invoices with ease**
 
-![QR Code Generator Preview](https://github.com/prashikBesekar/Invora/blob/main/public/images/invora.jpg)
+![GST invoice Preview](https://github.com/prashikBesekar/Invora/blob/main/public/images/invora.jpg)
 
-**Tech Stack:** `Node.js` `React`
+**Tech Stack:** `Node.js` `React.js + Vite` `MongoDb` `Tailwindcss` `CRUD API` `AI API` `PDFKit`
 
 **Status:** ✅ **Shipped**
 
